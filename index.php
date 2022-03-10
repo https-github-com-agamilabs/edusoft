@@ -27,7 +27,7 @@
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <button class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #162999;" type="button">Visit</button>
+                            <a href="https://mcc.edu.bd/" class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #162999;">Visit</a>
                         </div>
                         <a href="https://mcc.edu.bd/" class="h2 font-weight-bold" style="color: #162999;">
                             Mahila College Chattogram
@@ -46,7 +46,7 @@
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <button class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #0cd975;" type="button">Visit</button>
+                            <a href="http://jugoshikhaghs.org/" class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #0cd975;">Visit</a>
                         </div>
                         <a href="http://jugoshikhaghs.org/" class="h2 font-weight-bold" style="color: #0cd975;">
                             Jugoshikha Girls High School
@@ -65,7 +65,7 @@
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <button class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #f7b924;" type="button">Visit</button>
+                            <a href="https://mcc.edu.bd/" class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #f7b924;">Visit</a>
                         </div>
                         <a href="https://mcc.edu.bd/" class="h2 font-weight-bold" style="color: #f7b924;">
                             Hathazari Parbati Model Govt. High School
