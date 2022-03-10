@@ -7,7 +7,10 @@
     <meta http-equiv="Content-Language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
-    <title>Documents</title>
+    <meta name="description" content="A Complete Automation From a student admission to graduation, everything of this software will enhance academic environment.
+        “EduBD-AGAMi” is an integrated management system designed for School/ College/Universities with the aim of digitalising the overall activities of educational institutions.
+        “EduBD-AGAMi” is a simple and useful learning management system, where users can complete all their academic and institutional work in an efficient and modern way.">
+    <title>স্কুল ও কলেজ অটোমেশন সফটওয়্যার</title>
 
     <link rel="stylesheet" href="css/main.css">
 </head>
@@ -17,7 +20,11 @@
         <div class="display-4 text-center mb-3">
             AGAMi EduSoft অটোমেশন এর আওতাভুক্ত কিছু শিক্ষা প্রতিষ্ঠান
         </div>
-        <hr class="my-4">
+        <div class="d-flex justify-content-center">
+            <div class="w-50">
+                <hr class="my-4 border-alternate">
+            </div>
+        </div>
         <div class="row justify-content-center">
             <div class="col-md-6 mb-4">
                 <div class="card position-relative he-100">
