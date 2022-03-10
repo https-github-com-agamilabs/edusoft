@@ -41,16 +41,16 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
         </div>
         <div class="row justify-content-center">
             <div class="col-md-6 mb-4">
-                <div class="card position-relative he-100">
+                <div class="card position-relative he-100 shadow-lg">
                     <img src="https://mcc.collegebd.org/assets/image/slider/mcc01.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
                     <div class="position-absolute" style="top: 300px;left: 20px;">
                         <img src="https://mcc.edu.bd/assets/image/emc_logo.png" class="img-thumbnail" style="width: 100px;border:2px solid #162999;" alt="Logo">
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <a href="https://mcc.edu.bd/" class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #162999;">Visit</a>
+                            <a href="https://mcc.edu.bd" class="btn btn-primary btn-lg font-weight-bold px-4 shadow border-0" style="width: 175px;background-color: #162999;">mcc.edu.bd</a>
                         </div>
-                        <a href="https://mcc.edu.bd/" class="h2 font-weight-bold" style="color: #162999;">
+                        <a href="https://mcc.edu.bd" class="h2 font-weight-bold" style="color: #162999;">
                             Mahila College Chattogram
                         </a>
                         <p class="h4 mt-3">49, Enayet Bazar, Chattogram</p>
@@ -59,16 +59,16 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
             </div>
 
             <div class="col-md-6 mb-4">
-                <div class="card position-relative he-100">
+                <div class="card position-relative he-100 shadow-lg">
                     <img src="https://jugoshikha.collegebd.org/assets/image/slider/jugoshikha01.jpg" class="card-img-top img-fluid" style="height: 350px;" alt="...">
                     <div class="position-absolute" style="top: 300px;left: 20px;">
                         <img src="<?php echo $Jugoshikha_logo; ?>" class="img-thumbnail" style="width: 100px;border:2px solid #159c3e;" alt="Logo">
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <a href="http://jugoshikhaghs.org/" class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #159c3e;">Visit</a>
+                            <a href="http://jugoshikhaghs.org" class="btn btn-primary btn-lg font-weight-bold px-4 shadow border-0" style="width: 175px;background-color: #159c3e;">jugoshikhaghs.org</a>
                         </div>
-                        <a href="http://jugoshikhaghs.org/" class="h2 font-weight-bold" style="color: #159c3e;">
+                        <a href="http://jugoshikhaghs.org" class="h2 font-weight-bold" style="color: #159c3e;">
                             Jugoshikha Girls High School
                         </a>
                         <p class="h4 mt-3">Thanapara, Gopalganj</p>
@@ -77,16 +77,16 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
             </div>
 
             <div class="col-md-6 mb-4">
-                <div class="card position-relative he-100">
+                <div class="card position-relative he-100 shadow-lg">
                     <img src="https://firebasestorage.googleapis.com/v0/b/agamilabs-edubd.appspot.com/o/files%2Fmasterslider%2FLGau1_1641154183446.jpg?alt=media&token=29cb6990-4391-45ee-8e05-2419620a10dc" class="card-img-top img-fluid" style="height: 350px;" alt="...">
                     <div class="position-absolute" style="top: 300px;left: 20px;">
                         <img src="http://hpgov.eschoolbd.org/assets/image/hatpgovs_logo.jpg" class="img-thumbnail" style="width: 100px;border:2px solid #f7b924;" alt="Logo">
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <a href="https://mcc.edu.bd/" class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #f7b924;">Visit</a>
+                            <a href="http://hpgov.eschoolbd.org" class="btn btn-primary text-dark btn-lg font-weight-bold px-4 shadow border-0" style="width: 175px;background-color: #f7b924;">hpgov.eschoolbd.org</a>
                         </div>
-                        <a href="https://mcc.edu.bd/" class="h2 font-weight-bold" style="color: #f7b924;">
+                        <a href="http://hpgov.eschoolbd.org" class="h2 font-weight-bold" style="color: #f7b924;">
                             Hathazari Parbati Model Govt. High School
                         </a>
                         <p class="h4 mt-3">Fatika, Hathazari, Chattogram </p>
@@ -95,16 +95,21 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
             </div>
 
             <div class="col-md-6 mb-4">
-                <div class="card position-relative he-100" style="background-color: #f7f7f7;">
+                <div class="card position-relative he-100 shadow-lg" style="background-color: #f7f7f7;">
                     <img src="assets/images/logo.jpg" class="card-img-top img-fluid mx-auto" style="height: 350px;width: max-content;" alt="...">
                     <div class="position-absolute" style="top: 300px;left: 20px;">
                         <img src="http://jugoshikhaghs.org/assets/image/logo.gif" class="img-thumbnail" style="width: 100px;border:2px solid #b1040e;" alt="Logo">
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <a href="javascript:void(0);" class="btn btn-primary btn-lg font-weight-bold px-5 shadow border-0" style="background-color: #b1040e;">Visit</a>
+                            <a href="https://api.whatsapp.com/send?phone=8801312257899" class="btn font-weight-bold px-4 shadow border-0" style="">
+                                <img width="40" src="assets/icons/whatsapp_icon_96.png" class="mr-2" /> WhatsApp
+                            </a>
+                            <a href="https://m.me/agamilabs" class="btn font-weight-bold px-4 shadow border-0" style="">
+                                <img width="40" src="assets/icons/messenger_icon_96.png" class="mr-2" /> Messenger
+                            </a>
                         </div>
-                        <a href="javascript:void(0);" class="h2 font-weight-bold" style="color: #b1040e;">
+                        <a href="https://api.whatsapp.com/send?phone=8801312257899" class="h2 font-weight-bold" style="color: #b1040e;">
                             আপনার শিক্ষা প্রতিষ্ঠানের নাম
                         </a>
                         <p class="h4 mt-3">আপনার শিক্ষা প্রতিষ্ঠানের ঠিকানা</p>
