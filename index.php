@@ -101,14 +101,14 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
                         <img src="http://jugoshikhaghs.org/assets/image/logo.gif" class="img-thumbnail" style="width: 100px;border:2px solid #b1040e;" alt="Logo">
                     </div> -->
                     <div class="card-body text-center">
-                        <div class="d-flex flex-wrap justify-content-between mb-5">
-                            <a href="assets/documents/edubd-docs.pdf" class="btn font-weight-bold px-4 shadow border-0">
+                        <div class="d-flex flex-wrap justify-content-between mb-3">
+                            <a href="assets/documents/edubd-docs.pdf" class="btn font-weight-bold px-4 shadow border-0 mb-3">
                                 <img width="40" src="assets/icons/download_icon_96.png" class="mr-2" /> বিস্তারিত
                             </a>
-                            <a href="https://api.whatsapp.com/send?phone=8801312257899" class="btn font-weight-bold px-4 shadow border-0">
+                            <a href="https://api.whatsapp.com/send?phone=8801312257899" class="btn font-weight-bold px-4 shadow border-0 mb-3">
                                 <img width="40" src="assets/icons/whatsapp_icon_96.png" class="mr-2" /> WhatsApp
                             </a>
-                            <a href="https://m.me/agamilabs" class="btn font-weight-bold px-4 shadow border-0">
+                            <a href="https://m.me/agamilabs" class="btn font-weight-bold px-4 shadow border-0 mb-3">
                                 <img width="40" src="assets/icons/messenger_icon_96.png" class="mr-2" /> Messenger
                             </a>
                         </div>
