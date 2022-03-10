@@ -48,7 +48,7 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <a href="https://mcc.edu.bd" class="btn btn-primary btn-lg font-weight-bold px-4 shadow border-0" style="width: 175px;background-color: #162999;">mcc.edu.bd</a>
+                            <a href="https://mcc.edu.bd" class="btn btn-primary btn-lg font-weight-bold px-4 shadow border-0" style="width: 185px;background-color: #162999;">mcc.edu.bd</a>
                         </div>
                         <a href="https://mcc.edu.bd" class="h2 font-weight-bold" style="color: #162999;">
                             Mahila College Chattogram
@@ -66,7 +66,7 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <a href="http://jugoshikhaghs.org" class="btn btn-primary btn-lg font-weight-bold px-4 shadow border-0" style="width: 175px;background-color: #159c3e;">jugoshikhaghs.org</a>
+                            <a href="http://jugoshikhaghs.org" class="btn btn-primary btn-lg font-weight-bold px-4 shadow border-0" style="width: 185px;background-color: #159c3e;">jugoshikhaghs.org</a>
                         </div>
                         <a href="http://jugoshikhaghs.org" class="h2 font-weight-bold" style="color: #159c3e;">
                             Jugoshikha Girls High School
@@ -84,7 +84,7 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
                     </div>
                     <div class="card-body text-center">
                         <div class="text-right mb-5">
-                            <a href="http://hpgov.eschoolbd.org" class="btn btn-primary text-dark btn-lg font-weight-bold px-4 shadow border-0" style="width: 175px;background-color: #f7b924;">hpgov.eschoolbd.org</a>
+                            <a href="http://hpgov.eschoolbd.org" class="btn btn-primary text-dark btn-lg font-weight-bold px-4 shadow border-0" style="width: 185px;background-color: #f7b924;">hpgov.eschoolbd.org</a>
                         </div>
                         <a href="http://hpgov.eschoolbd.org" class="h2 font-weight-bold" style="color: #f7b924;">
                             Hathazari Parbati Model Govt. High School
