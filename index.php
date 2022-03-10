@@ -116,7 +116,7 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
                             আপনার শিক্ষা প্রতিষ্ঠানকে অটোমেশনের আওতায় আনুন আজই
                         </div>
                         <div class="">
-                            <a href="tel:+8801312257899">+880 13 1225 7899</a>
+                            <a href="tel:+8801312257899" class="h5">+880 13 1225 7899</a>
                         </div>
                     </div>
                 </div>
