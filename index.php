@@ -97,22 +97,27 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
             <div class="col-md-6 mb-4">
                 <div class="card position-relative he-100 shadow-lg" style="background-color: #f7f7f7;">
                     <img src="assets/images/logo.jpg" class="card-img-top img-fluid mx-auto" style="height: 350px;width: max-content;" alt="...">
-                    <div class="position-absolute" style="top: 300px;left: 20px;">
+                    <!-- <div class="position-absolute" style="top: 300px;left: 20px;">
                         <img src="http://jugoshikhaghs.org/assets/image/logo.gif" class="img-thumbnail" style="width: 100px;border:2px solid #b1040e;" alt="Logo">
-                    </div>
+                    </div> -->
                     <div class="card-body text-center">
-                        <div class="text-right mb-5">
-                            <a href="https://api.whatsapp.com/send?phone=8801312257899" class="btn font-weight-bold px-4 shadow border-0" style="">
+                        <div class="d-flex flex-wrap justify-content-between mb-5">
+                            <a href="assets/documents/edubd-docs.pdf" class="btn font-weight-bold px-4 shadow border-0">
+                                <img width="40" src="assets/icons/download_icon_96.png" class="mr-2" /> বিস্তারিত
+                            </a>
+                            <a href="https://api.whatsapp.com/send?phone=8801312257899" class="btn font-weight-bold px-4 shadow border-0">
                                 <img width="40" src="assets/icons/whatsapp_icon_96.png" class="mr-2" /> WhatsApp
                             </a>
-                            <a href="https://m.me/agamilabs" class="btn font-weight-bold px-4 shadow border-0" style="">
+                            <a href="https://m.me/agamilabs" class="btn font-weight-bold px-4 shadow border-0">
                                 <img width="40" src="assets/icons/messenger_icon_96.png" class="mr-2" /> Messenger
                             </a>
                         </div>
-                        <a href="https://api.whatsapp.com/send?phone=8801312257899" class="h2 font-weight-bold" style="color: #b1040e;">
-                            আপনার শিক্ষা প্রতিষ্ঠানের নাম
-                        </a>
-                        <p class="h4 mt-3">আপনার শিক্ষা প্রতিষ্ঠানের ঠিকানা</p>
+                        <div class="h3 font-weight-bold" style="color: #b1040e;">
+                            আপনার শিক্ষা প্রতিষ্ঠানকে অটোমেশনের আওতায় আনুন আজই
+                        </div>
+                        <div class="">
+                            <a href="tel:+8801312257899">+880 13 1225 7899</a>
+                        </div>
                     </div>
                 </div>
             </div>
