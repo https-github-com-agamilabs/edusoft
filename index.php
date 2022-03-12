@@ -13,6 +13,7 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
     <meta name="description" content="A Complete Automation From a student admission to graduation, everything of this software will enhance academic environment.
         “EduBD-AGAMi” is an integrated management system designed for School/ College/Universities with the aim of digitalising the overall activities of educational institutions.
         “EduBD-AGAMi” is a simple and useful learning management system, where users can complete all their academic and institutional work in an efficient and modern way.">
+    <meta name="keywords" content="EduSoft, School Automation, College Automation, এডুসফট, স্কুল অটোমেশন, কলেজ অটোমেশন" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/fav/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/fav/favicon-32x32.png">
