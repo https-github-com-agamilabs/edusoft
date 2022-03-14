@@ -124,6 +124,12 @@ $Jugoshikha_logo = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGB
             </div>
         </div>
     </div>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9537102142148797" crossorigin="anonymous"></script>
+    <!-- AGAMiLabs AdSenseAd-001 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9537102142148797" data-ad-slot="9008000015" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
 </body>
 
 </html>
