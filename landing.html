@@ -495,34 +495,39 @@ footer p.tag{color:#94a3b8;font-size:.92rem;max-width:280px}
       <p>Web portal, native mobile apps and back-office modules all share one real-time cloud. Data flows automatically — no silos, no double entry.</p>
     </div>
     <div class="hub reveal">
-      <svg viewBox="0 0 900 460" class="draw" role="img" aria-label="Cloud platform connected to apps and modules">
+      <svg viewBox="0 0 900 420" class="draw" role="img" aria-label="Cloud platform connected to web, mobile apps and back-office modules">
         <defs><linearGradient id="hg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient></defs>
+        <!-- orbit guide -->
+        <circle cx="450" cy="210" r="175" fill="none" stroke="var(--border)" stroke-width="1.5" stroke-dasharray="4 8"/>
         <!-- links -->
-        <g stroke="url(#hg)" stroke-width="2" fill="none" opacity=".55">
-          <path d="M450 230 L150 90" style="--len:340"/><path d="M450 230 L450 70" style="--len:170"/>
-          <path d="M450 230 L750 90" style="--len:340"/><path d="M450 230 L120 230" style="--len:330"/>
-          <path d="M450 230 L780 230" style="--len:330"/><path d="M450 230 L150 380" style="--len:340"/>
-          <path d="M450 230 L450 400" style="--len:180"/><path d="M450 230 L750 380" style="--len:340"/>
+        <g stroke="url(#hg)" stroke-width="2.5" fill="none" opacity=".5">
+          <path d="M450 210 L450 35" style="--len:180"/><path d="M450 210 L574 86" style="--len:180"/>
+          <path d="M450 210 L625 210" style="--len:180"/><path d="M450 210 L574 334" style="--len:180"/>
+          <path d="M450 210 L450 385" style="--len:180"/><path d="M450 210 L326 334" style="--len:180"/>
+          <path d="M450 210 L275 210" style="--len:180"/><path d="M450 210 L326 86" style="--len:180"/>
+        </g>
+        <!-- nodes -->
+        <g font-family="Inter" font-size="13" font-weight="700" text-anchor="middle">
+          <g><circle cx="450" cy="35" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="450" y="40" fill="var(--text)">Admin</text></g>
+          <g><circle cx="574" cy="86" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="574" y="91" fill="var(--text)">iOS</text></g>
+          <g><circle cx="625" cy="210" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="625" y="215" fill="var(--text)">Teacher</text></g>
+          <g><circle cx="574" cy="334" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="574" y="339" fill="var(--text)">Guardian</text></g>
+          <g><circle cx="450" cy="385" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="450" y="390" fill="var(--text)">Student</text></g>
+          <g><circle cx="326" cy="334" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="326" y="339" fill="var(--text)">Finance</text></g>
+          <g><circle cx="275" cy="210" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="275" y="215" fill="var(--text)">Android</text></g>
+          <g><circle cx="326" cy="86" r="44" fill="var(--surface)" stroke="var(--border)"/><text x="326" y="91" fill="var(--text)">Web</text></g>
         </g>
         <!-- center cloud -->
-        <circle cx="450" cy="230" r="66" fill="url(#hg)"/>
-        <path d="M470 235a14 14 0 0 0 0-28 20 20 0 0 0-38-5 15 15 0 0 0 1.5 33H470Z" fill="#fff" transform="translate(-20 -8)"/>
-        <text x="450" y="270" text-anchor="middle" fill="#fff" font-size="13" font-weight="800" font-family="Manrope">Cloud</text>
-        <!-- nodes -->
-        <g font-family="Inter" font-size="12" font-weight="700" text-anchor="middle">
-          <g><circle cx="150" cy="90" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="150" y="94" fill="var(--text)">Web</text></g>
-          <g><circle cx="450" cy="70" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="450" y="74" fill="var(--text)">Admin</text></g>
-          <g><circle cx="750" cy="90" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="750" y="94" fill="var(--text)">iOS</text></g>
-          <g><circle cx="120" cy="230" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="120" y="234" fill="var(--text)">Android</text></g>
-          <g><circle cx="780" cy="230" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="780" y="234" fill="var(--text)">Teacher</text></g>
-          <g><circle cx="150" cy="380" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="150" y="384" fill="var(--text)">Student</text></g>
-          <g><circle cx="450" cy="400" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="450" y="404" fill="var(--text)">Guardian</text></g>
-          <g><circle cx="750" cy="380" r="34" fill="var(--surface)" stroke="var(--border)"/><text x="750" y="384" fill="var(--text)">Finance</text></g>
-        </g>
-        <!-- animated data dot -->
-        <circle r="4" fill="#22C55E"><animateMotion dur="3s" repeatCount="indefinite" path="M450 230 L150 90"/></circle>
-        <circle r="4" fill="#2563EB"><animateMotion dur="3.4s" repeatCount="indefinite" path="M450 230 L780 230"/></circle>
-        <circle r="4" fill="#14B8A6"><animateMotion dur="2.8s" repeatCount="indefinite" path="M450 230 L450 400"/></circle>
+        <circle cx="450" cy="210" r="74" fill="url(#hg)"/>
+        <circle cx="450" cy="210" r="74" fill="none" stroke="#fff" stroke-width="1.5" opacity=".35"/>
+        <path d="M472 206a13 13 0 0 0 0-26 19 19 0 0 0-36-5 14 14 0 0 0 1.5 31H472Z" fill="#fff" transform="translate(-19 -14)"/>
+        <text x="450" y="232" text-anchor="middle" fill="#fff" font-size="13" font-weight="800" font-family="Manrope">Cloud</text>
+        <text x="450" y="248" text-anchor="middle" fill="#fff" font-size="11" font-weight="600" font-family="Inter" opacity=".9">Platform</text>
+        <!-- animated data dots -->
+        <circle r="4.5" fill="#fff"><animateMotion dur="2.6s" repeatCount="indefinite" path="M450 210 L450 35"/></circle>
+        <circle r="4.5" fill="#fff"><animateMotion dur="3s" repeatCount="indefinite" path="M450 210 L625 210"/></circle>
+        <circle r="4.5" fill="#fff"><animateMotion dur="2.8s" repeatCount="indefinite" path="M450 210 L326 334"/></circle>
+        <circle r="4.5" fill="#fff"><animateMotion dur="3.2s" repeatCount="indefinite" path="M450 210 L574 86"/></circle>
       </svg>
     </div>
   </div>
@@ -854,7 +859,34 @@ footer p.tag{color:#94a3b8;font-size:.92rem;max-width:280px}
       </form>
       <div>
         <div class="map">
-          <iframe title="AGAMiLabs location" loading="lazy" width="100%" height="300" style="border:0;display:block" src="https://www.openstreetmap.org/export/embed.html?bbox=90.35%2C23.72%2C90.45%2C23.82&amp;layer=mapnik"></iframe>
+          <svg viewBox="0 0 440 300" role="img" aria-label="AGAMiLabs office location in Dhaka, Bangladesh" style="display:block;width:100%;height:auto;background:var(--surface-2)">
+            <defs><linearGradient id="mpin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient></defs>
+            <rect width="440" height="300" fill="var(--surface-2)"/>
+            <!-- roads -->
+            <g stroke="var(--border)" stroke-width="10" fill="none" opacity=".8">
+              <path d="M-10 90 H450"/><path d="M-10 210 H450"/><path d="M120 -10 V310"/><path d="M300 -10 V310"/>
+            </g>
+            <g stroke="var(--border)" stroke-width="4" fill="none" opacity=".6">
+              <path d="M-10 150 H450"/><path d="M210 -10 V310"/><path d="M60 -10 V310"/><path d="M380 -10 V310"/>
+            </g>
+            <!-- blocks -->
+            <g fill="var(--surface)" opacity=".7">
+              <rect x="20" y="20" width="80" height="50" rx="4"/><rect x="140" y="20" width="140" height="50" rx="4"/>
+              <rect x="20" y="110" width="80" height="80" rx="4"/><rect x="320" y="110" width="100" height="80" rx="4"/>
+              <rect x="140" y="230" width="140" height="50" rx="4"/><rect x="320" y="230" width="100" height="50" rx="4"/>
+            </g>
+            <!-- park -->
+            <rect x="140" y="110" width="140" height="80" rx="6" fill="#22C55E" opacity=".18"/>
+            <!-- pin -->
+            <g transform="translate(210 150)">
+              <ellipse cx="0" cy="34" rx="16" ry="5" fill="#0f172a" opacity=".18"/>
+              <path d="M0 34C0 34 20 12 20 -2A20 20 0 1 0 -20 -2C-20 12 0 34 0 34Z" fill="url(#mpin)"/>
+              <circle cx="0" cy="-2" r="7" fill="#fff"/>
+              <animateTransform attributeName="transform" type="translate" values="0 -4;0 0;0 -4" dur="2.2s" repeatCount="indefinite" additive="sum"/>
+            </g>
+            <text x="210" y="205" text-anchor="middle" font-family="Manrope,sans-serif" font-size="13" font-weight="800" fill="var(--text)">AGAMiLabs Limited</text>
+            <text x="210" y="223" text-anchor="middle" font-family="Inter,sans-serif" font-size="11" fill="var(--text-muted)">Dhaka, Bangladesh</text>
+          </svg>
         </div>
         <ul class="contact-info">
           <li><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16v16H4z" opacity="0"/><path d="M22 6 12 13 2 6"/><rect x="2" y="4" width="20" height="16" rx="2"/></svg></span> theaisolutionbd@gmail.com</li>
